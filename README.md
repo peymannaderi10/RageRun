@@ -1,6 +1,6 @@
-**<u>Rage Run Game</u>**
+# Rage Run Game
 
-**Platform**
+## Platform
 
 We Used the platform “Unity” to build this game
 
@@ -18,13 +18,13 @@ games.
 
 **How can we access the Game??**
 
-# 1. Locate and open the "RageRunApp" folder on your computer.
+1. Locate and open the "RageRunApp" folder on your computer.
 
-# 2. Within the "RageRunApp" folder, search for the "Rage Run.exe" file and double-click it to initiate the game. A game window will appear, allowing you to dive into the action immediately.
+2. Within the "RageRunApp" folder, search for the "Rage Run.exe" file and double-click it to initiate the game. A game window will appear, allowing you to dive into the action immediately.
 
-# 3. Important to note, the game is designed without a straightforward quit option. The only way to exit "Rage Run" is by depleting all your lives or successfully completing the game. This unique feature is intended to heighten the emotional challenge by forcing players to endure my taunting voice lines when they wish to stop playing but cannot until they either win or lose entirely.
+3. Important to note, the game is designed without a straightforward quit option. The only way to exit "Rage Run" is by depleting all your lives or successfully completing the game. This unique feature is intended to heighten the emotional challenge by forcing players to endure my taunting voice lines when they wish to stop playing but cannot until they either win or lose entirely.
 
-# Game Description 
+## Game Description 
 
 Welcome to "Rage Run," a thrilling 2D platform game that promises to
 both engage and challenge you. Designed with intuitiveness in mind,
@@ -41,7 +41,7 @@ hurdles and will create difficulty for the player in completing the
 games. The traps are in the form of moving arrows, spines, moving box
 etcc.. .
 
-# Sounds and Audio 
+## Sounds and Audio 
 
 The game features distinctive and engaging sound effects that captivate
 players' interest during gameplay. Accompanied by delightful background
@@ -50,7 +50,7 @@ Additionally, there's a unique sound triggered by pressing the gameplay
 keys, adding a cool touch to the gaming experience. These audio elements
 have been integrated into the game to enhance its appeal to gamers.
 
-# Game Play 
+## Game Play 
 
 After launching the game:-
 
