@@ -13,7 +13,7 @@ public class Cage : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
 
-        if (collision.tag == "Player" && Key.HasKey)
+        if (collision.tag == "Player")
         {
             GetComponent<Collider2D>().enabled = false;
             GetComponent<SpriteRenderer>().enabled = false;
