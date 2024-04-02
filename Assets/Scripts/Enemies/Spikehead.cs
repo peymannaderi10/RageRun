@@ -71,6 +71,7 @@ public class Spikehead : EnemyDamage
     public void ResetTrap()
     {
         transform.position = ogPosition;
+        attacking = false;
     }
 
     private void OnTriggerEnter2D(Collider2D collison){
