@@ -11,6 +11,7 @@ public class Spikehead : EnemyDamage
     private Vector3 destination;
     private Vector3[] directions = new Vector3[4];
     private bool attacking;
+    private Vector3 ogPosition;
     // Start is called before the first frame update
     // void Start()
     // {
@@ -50,6 +51,10 @@ public class Spikehead : EnemyDamage
             }
         }
     }
+    private void Awake()
+    {
+        ogPosition = transform.position;
+    }
     private void calculateDirections()
     {
         directions[0] = transform.right * range;
@@ -61,6 +66,11 @@ public class Spikehead : EnemyDamage
     private void Stop(){
         destination = transform.position;
         attacking = false;
+    }
+
+    public void ResetTrap()
+    {
+        transform.position = ogPosition;
     }
 
     private void OnTriggerEnter2D(Collider2D collison){
