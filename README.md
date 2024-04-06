@@ -32,9 +32,9 @@ both engage and challenge you. Designed with intuitiveness in mind,
 Navigate your way through diverse levels, dodging unseen hazards and
 traps, with the ultimate goal of rescuing your dog, Buddy. The game
 cleverly integrates traps that provoke frustration and anger, testing
-not just your gaming skills but your emotional resilience as well. **  
+not just your gaming skills but your emotional resilience as well.
   
-**There are 3 levels in the game and we need to clear all the 3 levels
+There are 3 levels in the game and we need to clear all the 3 levels
 in order to rescue the dog. The difficulty level of the game increases
 after each level. There are certain traps in the game which will act as
 hurdles and will create difficulty for the player in completing the
